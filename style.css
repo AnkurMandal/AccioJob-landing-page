@@ -107,7 +107,7 @@ span {
   font-size: 50px;
   font-style: italic;
   font-weight: 400;
-  line-height: 130%; /* 65px */
+  line-height: 130%;
   letter-spacing: -0.75px;
 }
 .curriculam {
@@ -117,7 +117,7 @@ span {
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
-  line-height: 130%; /* 23.4px */
+  line-height: 130%; 
   letter-spacing: 0.36px;
 }
 .lakh {
@@ -244,10 +244,10 @@ span {
 }
 .alumni {
   background-color: #fdfeff;
-  border: 1px solid #ccc; /* Add a light gray border */
-  padding: 15px; /* Add some padding for spacing */
-  margin-bottom: 20px; /* Add margin to separate alumni cards */
-  min-height: 300px; /* Set a minimum height for the alumni card */
+  border: 1px solid #ccc; 
+  padding: 15px; 
+  margin-bottom: 20px; 
+  min-height: 300px; 
 }
 .photos {
   display: flex;
